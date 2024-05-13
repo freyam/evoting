@@ -1,0 +1,12 @@
+t: 6
+p: 10
+Party-ids: 1 4 5 6 7 8 9 
+Winner: Captain America
+Secret Sharing Time: 0.0225136 sec (74139516 cycles)
+Noise: 0.025
+6-out-of-10 | Official 1 | Result: Captain America | Time: 3.326e-06s
+6-out-of-10 | Official 4 | Result: Captain America | Time: 2.404e-06s
+6-out-of-10 | Official 5 | Result: Captain America | Time: 2.405e-06s
+6-out-of-10 | Official 6 | Result: Captain America | Time: 2.385e-06s
+6-out-of-10 | Official 7 | Result: Captain America | Time: 2.425e-06s
+6-out-of-10 | Official 8 | Result: Captain America | Time: 2.785e-06s
